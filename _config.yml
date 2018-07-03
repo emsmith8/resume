@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Evan M. Smith"
-resume_title:                   "VP of Global Communications"
+resume_title:                   "Software Developer"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "evan.matthew.smith@gmail.com"
