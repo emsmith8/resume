@@ -1,6 +1,6 @@
 # Site settings
-title: "Evan M. Smith"
-description: "Test"
+title: "EMSmith Resume"
+description: "Resume for E.M. Smith"
 
 # Build settings
 markdown: kramdown
