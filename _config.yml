@@ -18,9 +18,9 @@ resume_contact_email:           "evan.matthew.smith@gmail.com"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
 resume_contact_telephone:       "(301) 395-3145"
-resume_contact_address:         "11915 Progress Ln. Bowie, MD 20721"
+resume_contact_address:         ""
 
-resume_header_contact_info:     "11915 Progress Ln. Bowie, MD 20721 • (301) 395-3145 • evan.matthew.smith@gmail.com"
+resume_header_contact_info:     "evan.matthew.smith@gmail.com • (301) 395-3145 • best availability 12-8 PM"
 display_header_contact_info:    "true"
 
 resume_header_intro: "<p>Travelled the world as a professional diver. Worked a desk job in customer service. This combination of experiences helped drive a desire to return to school to then pursue a career in software development.</p>"
